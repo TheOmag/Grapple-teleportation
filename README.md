@@ -13,7 +13,7 @@ If you have any questions or issues please DM me on discord CrafterBot#7578 or p
 <h3>Instruction:</h3>
 <p>Hit the T button on your keyboard to teleport to where you are looking.</p>
 <h3>Grapple download:</h3>
-<P><a href="https://barji.itch.io/grapple">Link</a> - Scroll down a little bit to find the download link.</p>
+<P><a href="https://barji.itch.io/grapple">Link</a>
 <h3>Planned Updates:</h3>
 <table>
     <tr>
